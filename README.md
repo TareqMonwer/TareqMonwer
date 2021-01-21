@@ -25,4 +25,5 @@
 <a href="https://github.com/antonkomarev/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=tareqmonwer">
 </a>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tareqmonwer" alt="tareqmonwer" /></p>
 
