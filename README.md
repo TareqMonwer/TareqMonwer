@@ -15,8 +15,8 @@
 </p>
 
 <div style="display: flex;">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=TareqMonwer&show_icons=true&count_private=true" alt="TareqMonwer" />
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tareqmonwer" alt="tareqmonwer" />
+    <img style="width: 50%;" align="center" src="https://github-readme-stats.vercel.app/api?username=TareqMonwer&show_icons=true&count_private=true" alt="TareqMonwer" />
+    <img style="width: 50%;" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tareqmonwer" alt="tareqmonwer" />
 </div>
 
 <a href="https://github.com/antonkomarev/github-profile-views-counter">
