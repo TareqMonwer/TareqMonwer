@@ -2,10 +2,6 @@
 <h3 align="center">A Web Developer & Python Programmer</h3>
 <br>
 
-- 🌱 I’m currently learning **Vanilla JS, React, DRF**
-
-- 💬 Ask me about **Django, Python**
-
 <p align="center">
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a>
