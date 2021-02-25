@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tareq Monwer</h1>
-<h3 align="center">A Web Developer & Python Programmer</h3>
+<h3 align="center">Fullstack Developer & Python Programmer</h3>
 <br>
 
 <p align="center">
