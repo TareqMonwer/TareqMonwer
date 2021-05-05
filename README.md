@@ -10,13 +10,4 @@
 <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
 </p>
 
-<div style="display: flex;">
-    <img style="width: 50%;" align="center" src="https://github-readme-stats.vercel.app/api?username=TareqMonwer&show_icons=true&count_private=true" alt="TareqMonwer" />
-    <img style="width: 50%;" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tareqmonwer" alt="tareqmonwer" />
-</div>
-
-<a href="https://github.com/antonkomarev/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=tareqmonwer">
-</a>
-
 
