@@ -11,6 +11,10 @@
   <a href="https://www.tareqmonwer.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="django" width="40" height="40"/>
   </a>
+  <!-- fastapi -->
+  <a href="https://www.tareqmonwer.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="python" width="40" height="40"/> 
+  </a>
   <!-- javascript -->
   <a href="https://www.tareqmonwer.com/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
