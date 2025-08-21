@@ -16,21 +16,6 @@ Welcome to my GitHub profile! I'm a passionate software engineer with **5+ years
 
 ---
 
-## 💼 Professional Experience
-
-### 🏢 **NiftyCoders** (Current - Software Engineer)
-- Built cloud-native systems serving **20+ million monthly users**
-- Led database migration systems supporting multi-vendor compatibility
-- Developed AI agent solutions on AWS using cutting-edge LLM technologies
-- Optimized test suites to run **5x faster** using parallel execution
-
-### 🏥 **Healthcare & SaaS Solutions**
-- Delivered multi-tenant business analysis tools for major US healthcare organizations
-- Developed SaaS POS solutions from legacy systems
-- Created subscription and pricing models from scratch
-
----
-
 ## 🛠️ Tech Stack
 
 ### Languages & Frameworks
@@ -53,30 +38,6 @@ Welcome to my GitHub profile! I'm a passionate software engineer with **5+ years
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
----
-
-## 🌟 Featured Projects
-
-### 🏫 [Django School Management](https://github.com/TareqMonwer/Django-School-Management)
-**⭐ 500+ GitHub Stars** | Open-source school management system
-- Built with Django & Django Rest Framework
-- Features: Student-teacher management, accounting, admissions
-- PDF generation, Celery integration, Cookie-cutter structure
-- **Tech**: Python, Django, MySQL, Bootstrap
-
-*This project demonstrates my ability to build complete, production-ready applications that solve real-world problems.*
-
-### 🤖 AI Agent Solutions (NiftyCoders)
-- Developed and deployed AI solutions on AWS using LangGraph and Bedrock
-- System design and architecture documentation
-- Performance optimization for LLM applications
-- **Tech**: Python, AWS Bedrock, LangGraph, LangSmith
-
-### 🏥 Multi-tenant Healthcare Analytics
-- Built business analysis tools for major US healthcare organization
-- Scalable architecture supporting multiple tenants
-- **Tech**: FastAPI, SQLAlchemy, Angular, AWS RDS
 
 ---
 
